@@ -5,3 +5,5 @@ Today, 1.85 million different apps are available for users to download. Android 
 2) Data Collection.
 
 The data consists of 20 column and 10841 rows.
+
+#### Feature selection is still not done
